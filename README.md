@@ -51,8 +51,8 @@ chsh -s zsh
 **3. Clone and install**
 if your default shell is `zsh` you can clone and run the install script 
 ```bash
-git clone https://github.com/SefFaulr/Txzsh.git
-cd txzsh
+git clone https://github.com/SegFaulr/Txzsh.git
+cd Txzsh
 chmod +x install.sh
 ./install.sh
 ```
@@ -95,6 +95,6 @@ Here are basic keybinds:
 
 ## Troubleshooting
 
-**If you run into any issues or have questions, feel free to ask in the comments on my [YouTube channel](https://www.youtube.com/@Bayonet7) or open an issue in this repo. I’ll try to respond as soon as I can.**
+**If you run into any issues then open an issue in this repo.**
 
 
